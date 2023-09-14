@@ -25,14 +25,14 @@ En proyectos biológicos tiende a ser de gran utilidad debido a la medición de 
 Otras utilizaciones del BMP180 es en el prónostico del tiempo, la monitorización de la calidad del aire, sistemas de navegación GPS, sistemas de control de clima en edificios, entre otros proyectos de tecnología.
 
 ## *Ventajas y desventajas*
-  ### *Ventajas*
+  ## *Ventajas*
   + Precisión: El BMP180 es conocido por su precisión en la medición de la presión atmosférica y la temperatura, lo que lo hace adecuado para aplicaciones que requieren datos precisos.
   + Bajo consumo de energía: El sensor BMP180 consume muy poca energía, lo que es beneficioso para aplicaciones con restricciones de energía, como dispositivos alimentados por batería.
   + Compatibilidad: El BMP180 se comunica fácilmente con microcontroladores y otros dispositivos a través de interfaces estándar como I2C y SPI, lo que facilita su integración en proyectos electrónicos.
   + Amplia gama de aplicaciones: Puede utilizarse en una amplia variedad de aplicaciones, desde pronóstico del tiempo hasta control de drones y automatización industrial.
   + Costo asequible: Es relativamente económico en comparación con sensores más avanzados, lo que lo hace accesible para proyectos con presupuestos limitados.
 
-  ### *Desventajas*
+  ## *Desventajas*
   + Altitud limitada: El BMP180 es más adecuado para aplicaciones a altitudes moderadas. No es la mejor opción para mediciones precisas en altitudes extremadamente altas o por debajo del nivel del mar.
   + No apto para aplicaciones submarinas: Debido a sus limitaciones de presión, el BMP180 no es adecuado para aplicaciones submarinas en las que se requieran mediciones de presión a grandes profundidades. 
   + Calibración requerida: Para obtener mediciones precisas, el sensor BMP180 debe calibrarse correctamente, lo que puede requerir equipo y procedimientos específicos.
