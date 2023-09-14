@@ -1,5 +1,4 @@
 # Sensor Barométrico BMP180
-![BMP180](https://electronperdido.com/wp-content/uploads/2015/08/Presi%C3%B3n-BMP180-01.jpg)
 ## *¿Qué es el BMP180?*
 El sensor BMP180 es un sensor diseñado para leer la presión atmosférica y de esta forma estimar indirectamente la Altura sobre el nivel del mar. Lo que mide el sensor BMP180 es la presión absoluta (Barométrica) y la temperatura; al sensar la temperatura podemos compensar su influencia en la presión y asi determinar con mayor exactitud la altitud.
 
